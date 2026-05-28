@@ -15,7 +15,7 @@ Business-oriented sales analytics project based on simulated FMCG data
 - Jupyter Notebook
 
 ## Main Insights
-- promotions increased average sales by ~95%
+- promotional periods were associated with ~95% higher average sales
 - sales activity was higher during mid-year periods
 - Yogurt products showed the highest inventory turnover
 - delivery delays were not strongly related to understock situations
